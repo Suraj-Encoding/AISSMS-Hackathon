@@ -1,7 +1,7 @@
 <!-- EduPulse Readme File -->
 
 <!-- Website Name -->
-<h1 align="center"> 💲 EduPulse - InovateYou 2024 Techathon - AISSMS IOIT Pune 💲 </h1>
+<h2 align="center"> 💲 EduPulse Platform - InovateYou 2024 Techathon - AISSMS IOIT Pune 💲 </h2>
 
 <!-- Website Link -->
 - ### **🕸️ EduPulse Platform Website Link :** ⚙️ [EduPulse](https://eduopulse.vercel.app "Visit EduPulse Platform") ⚙️
