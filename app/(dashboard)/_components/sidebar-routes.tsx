@@ -5,7 +5,7 @@ import {
   Box,
   Calendar,
   Compass,
-  FileQuestion,
+  Presentation,
   Layout,
   Lightbulb,
   List,
@@ -29,6 +29,11 @@ const guestRoutes = [
     icon: Calendar,
     label: "EduEvent",
     href: "/events",
+  },
+  {
+    icon: Presentation,
+    label: "EduBoard",
+    href: "https://eboard.onrender.com/",
   },
   {
     icon: MehIcon,

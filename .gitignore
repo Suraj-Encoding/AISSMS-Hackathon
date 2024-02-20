@@ -1,36 +1,45 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+## Git Ignore Files  ##
 
-# dependencies
+# Dependencies
 /node_modules
-/.pnp
-.pnp.js
 
-# testing
-/coverage
-
-# next.js
-/.next/
-/out/
-
-# production
+# Client Production Build 
 /build
 
-# misc
-.DS_Store
-*.pem
+# Sanity Production Build 
+/dist
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Environment Variables
+.env
 
-# local env files
-# .env*.local
-# .env
+# Git Folder
+.git
 
-# vercel
+# OS Waste File
+*.DS_Store
+
+# Testing
+/coverage
+
+# Vercel
 .vercel
 
-# typescript
+# VSCode 
+.vscode
+
+# Logs
+/logs
+*.log
+
+# Typescript 
 *.tsbuildinfo
 next-env.d.ts
+
+# Local Files
+*.local
+
+# Next Runtime
+/.next
+
+# Sanity Runtime
+/.sanity
