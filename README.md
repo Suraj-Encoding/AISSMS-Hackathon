@@ -5,12 +5,15 @@
 
 <!-- Website Link -->
 - ### **🕸️ EduPulse Platform Website Link :** ⚙️ [EduPulse](https://eduopulse.vercel.app "Visit EduPulse Platform") ⚙️
+<br>
 
 <!-- EduPulse Platform Other Components Link -->
-- ### **🕸️ EduPulse Focus Mode (eDetection) :** ⚙️ [Focus Mode](https://edetection.vercel.app "EduPulse Focus Mode") ⚙️
-- ### **🕸️ EduPulse Fun Hub (oDetection) :** ⚙️ [Fun Hub](https://odetection.vercel.app "EduPulse Fun Hub") ⚙️
-- ### **🕸️ EduPulse Digital WhiteBoard :** ⚙️ [EduBoard](https://eboard.onrender.com/ "EduPulse EduBoard") ⚙️
-- ### **🕸️ EduPulse AI Based Quiz :** ⚙️ [EduQuiz](https://quizmify.vercel.app/ "EduPulse EduQuiz") ⚙️  
+- ### **🕸️ EduPulse Platform Other Components Link :**
+- ### **🕸️ EduPulse Focus Mode (eDetection) :**  [Focus Mode](https://edetection.vercel.app "EduPulse Focus Mode") 
+- ### **🕸️ EduPulse Fun Hub (oDetection) :**  [Fun Hub](https://odetection.vercel.app "EduPulse Fun Hub") 
+- ### **🕸️ EduPulse Digital WhiteBoard :**  [EduBoard](https://eboard.onrender.com/ "EduPulse EduBoard") 
+- ### **🕸️ EduPulse AI Based Quiz :**  [EduQuiz](https://quizmify.vercel.app/ "EduPulse EduQuiz") 
+<br>
 
 <!-- Website Details -->
 - ### **🕸️ Deploy On :**
