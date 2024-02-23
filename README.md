@@ -1,18 +1,19 @@
 <!-- EduPulse Readme File -->
 
 <!-- Website Name -->
-<h2 align="center"> 💲 EduPulse Platform - InovateYou 2024 Techathon - AISSMS IOIT Pune 💲 </h2>
+<h2 align="center"> 🔵 EduPulse Platform - InovateYou 2024 Techathon - AISSMS IOIT Pune 🔵 </h2>
 
 <!-- Website Link -->
-- ### **🕸️ EduPulse Platform Website Link :** ⚙️ [EduPulse](https://eduopulse.vercel.app "Visit EduPulse Platform") ⚙️
+### 🕸️ EduPulse Platform Website Link : ⚙️ [EduPulse](https://eduopulse.vercel.app "Visit EduPulse Platform") ⚙️
 <br>
 
 <!-- EduPulse Platform Other Components Link -->
-- ### **🕸️ EduPulse Platform Other Components Link :**
-- ### **🕸️ EduPulse Focus Mode (eDetection) :**  [Focus Mode](https://edetection.vercel.app "EduPulse Focus Mode") 
-- ### **🕸️ EduPulse Fun Hub (oDetection) :**  [Fun Hub](https://odetection.vercel.app "EduPulse Fun Hub") 
-- ### **🕸️ EduPulse Digital WhiteBoard :**  [EduBoard](https://eboard.onrender.com/ "EduPulse EduBoard") 
-- ### **🕸️ EduPulse AI Based Quiz :**  [EduQuiz](https://quizmify.vercel.app/ "EduPulse EduQuiz") 
+### 🕸️ EduPulse Platform Other Components Link :
+- ### EduPulse Focus Mode (eDetection) : [Focus Mode](https://edetection.vercel.app "EduPulse Focus Mode") 
+- ### EduPulse Fun Hub (oDetection) : [Fun Hub](https://odetection.vercel.app "EduPulse Fun Hub") 
+- ### EduPulse Digital WhiteBoard : [EduBoard](https://eboard.onrender.com/ "EduPulse EduBoard") 
+- ### EduPulse AI Based Quiz : [EduQuiz](https://quizmify.vercel.app/ "EduPulse EduQuiz")
+
 <br>
 
 <!-- Website Details -->
