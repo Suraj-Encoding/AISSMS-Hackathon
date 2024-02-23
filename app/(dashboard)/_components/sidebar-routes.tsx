@@ -27,7 +27,7 @@ const guestRoutes = [
   },
   {
     icon: Calendar,
-    label: "EduEvent",
+    label: "GovProject",
     href: "/events",
   },
   // {
