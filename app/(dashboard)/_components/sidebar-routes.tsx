@@ -30,26 +30,26 @@ const guestRoutes = [
     label: "EduEvent",
     href: "/events",
   },
-  {
-    icon: Presentation,
-    label: "EduBoard",
-    href: "https://eboard.onrender.com/",
-  },
-  {
-    icon: MehIcon,
-    label: "Focus Mode",
-    href: "https://edetection.vercel.app/",
-  },
-  {
-    icon: Box,
-    label: "Fun Hub",
-    href: "https://odetection.vercel.app/",
-  },
-  {
-    icon: Lightbulb,
-    label: "Idea of the Day",
-    href: "/iotd",
-  },
+  // {
+  //   icon: Presentation,
+  //   label: "EduBoard",
+  //   href: "https://eboard.onrender.com/",
+  // },
+  // {
+  //   icon: MehIcon,
+  //   label: "Focus Mode",
+  //   href: "https://edetection.vercel.app/",
+  // },
+  // {
+  //   icon: Box,
+  //   label: "Fun Hub",
+  //   href: "https://odetection.vercel.app/",
+  // },
+  // {
+  //   icon: Lightbulb,
+  //   label: "Idea of the Day",
+  //   href: "/iotd",
+  // },
   // {
   //   icon: FileQuestion,
   //   label: "EduQuiz",

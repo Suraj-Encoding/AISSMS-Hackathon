@@ -5,7 +5,7 @@ const nextConfig = {
       "utfs.io",
       "cdn.sanity.io"
     ]
-  }
+  },
 }
 
 module.exports = nextConfig
