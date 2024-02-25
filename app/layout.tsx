@@ -9,8 +9,8 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "GPulse - MetaBash",
-  description: "💲 GPulse 💲",
+  title: "EduPulse - The Online Learning Platform",
+  description: "💲 EduPulse : The Online Learning Platform 💲",
 };
 
 export default function RootLayout({
