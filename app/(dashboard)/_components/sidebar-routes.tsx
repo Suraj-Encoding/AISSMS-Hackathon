@@ -8,6 +8,7 @@ import {
   Presentation,
   Layout,
   Lightbulb,
+  BookOpenCheck,
   List,
   MehIcon,
 } from "lucide-react";
@@ -27,34 +28,34 @@ const guestRoutes = [
   },
   {
     icon: Calendar,
-    label: "GovProject",
+    label: "EduEvent",
     href: "/events",
   },
-  // {
-  //   icon: Presentation,
-  //   label: "EduBoard",
-  //   href: "https://eboard.onrender.com/",
-  // },
-  // {
-  //   icon: MehIcon,
-  //   label: "Focus Mode",
-  //   href: "https://edetection.vercel.app/",
-  // },
-  // {
-  //   icon: Box,
-  //   label: "Fun Hub",
-  //   href: "https://odetection.vercel.app/",
-  // },
-  // {
-  //   icon: Lightbulb,
-  //   label: "Idea of the Day",
-  //   href: "/iotd",
-  // },
-  // {
-  //   icon: FileQuestion,
-  //   label: "EduQuiz",
-  //   href: "https://quizmify.vercel.app",
-  // },
+  {
+    icon: Presentation,
+    label: "EduBoard",
+    href: "https://eboard.onrender.com/",
+  },
+  {
+    icon: MehIcon,
+    label: "Focus Mode",
+    href: "https://edetection.vercel.app/",
+  },
+  {
+    icon: Box,
+    label: "Fun Hub",
+    href: "https://odetection.vercel.app/",
+  },
+  {
+    icon: Lightbulb,
+    label: "Idea of the Day",
+    href: "/iotd",
+  },
+  {
+    icon: BookOpenCheck,
+    label: "EduQuiz",
+    href: "https://quizmify.vercel.app",
+  },
 ];
 
 const teacherRoutes = [
