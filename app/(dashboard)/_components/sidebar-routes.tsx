@@ -48,7 +48,7 @@ const guestRoutes = [
   },
   {
     icon: Lightbulb,
-    label: "Idea of the Day",
+    label: "EduLab",
     href: "/iotd",
   },
   {
