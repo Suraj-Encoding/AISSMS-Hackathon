@@ -27,9 +27,9 @@
       VSCode | Docker | Git | Github | ChatGPT | Stackoverflow 
 
 - ### **🕸️ Tech Stack :**
-       Next-14 | Typescript | JavaScript | Tailwind | Bootstrap | Node | Express | MongoDB |
+       Next-14 | TypeScript | JavaScript | Tailwind | Bootstrap | Node | Express | MongoDB |
        Sanity | Firebase | Google Console | Clerk | Twitch | Prisma | UploadThing | Mux |
-       PlanetScale - MySQL Database | Supabase - PostgreSQL Database | Strip | Python |
+       PlanetScale - MySQL Database | Supabase - PostgreSQL Database | Stripe | Python |
        TensorFlow | ML | AI | Different Frontend UI | And Many More...😎
 
 <!-- Team Name -->
