@@ -29,7 +29,7 @@
 - ### **🕸️ Tech Stack :**
        Next.JS | TypeScript | Tailwind | Bootstrap | MongoDB | Firebase | Supabase |
        Sanity CMS | Clerk | Stripe | Prisma | Twitch | UploadThing | Mux |
-       Component Libraries - Mantine, Aceternity
+       ML - YOLOv8 | AI - Gemini | Component Libraries - Mantine, Aceternity
 
 <!-- Team Name -->
 <h1 align="center"> 💲 NexGenNinjas 💲 </h1>
