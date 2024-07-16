@@ -27,7 +27,7 @@
       VSCode | Docker | Git | Github | ChatGPT | Stackoverflow 
 
 - ### **🕸️ Tech Stack :**
-       Next.JS | TypeScript | Tailwind | Bootstrap | MongoDB | Firebase | Supabase |
+       Next.JS | TypeScript | Java | Tailwind | Bootstrap | MongoDB | Firebase | Supabase |
        Sanity CMS | Clerk | Stripe | Prisma | Twitch | UploadThing | Mux |
        ML - YOLOv8 | AI - Gemini | Component Libraries - Mantine, Aceternity
 
