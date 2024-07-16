@@ -27,10 +27,9 @@
       VSCode | Docker | Git | Github | ChatGPT | Stackoverflow 
 
 - ### **🕸️ Tech Stack :**
-       Next-14 | TypeScript | JavaScript | Tailwind | Bootstrap | Node | Express | MongoDB |
-       Sanity | Firebase | Google Console | Clerk | Twitch | Prisma | UploadThing | Mux |
-       PlanetScale - MySQL Database | Supabase - PostgreSQL Database | Stripe | Python |
-       TensorFlow | ML | AI | Different Frontend UI | And Many More...😎
+       Next.JS | TypeScript | Tailwind | Bootstrap | MongoDB | Firebase | Supabase |
+       Sanity CMS | Clerk | Stripe | Prisma | Twitch | UploadThing | Mux |
+       Component Libraries - Mantine, Aceternity
 
 <!-- Team Name -->
 <h1 align="center"> 💲 NexGenNinjas 💲 </h1>
